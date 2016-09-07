@@ -1,6 +1,6 @@
 <!--
 @Author: Alain Demenet <ademenet>
-@Date:   Jan 01 1970
+@Date:   Sep 07 2016
 @Email:  ademenet@student.42.fr
 @Project: Camagru
 @Last modified by:   ademenet
@@ -8,6 +8,9 @@
 -->
 
 <?php
+
+include_once './database.php';
+include_once '../dbconfig.php';
 
 // definit les variables et cree la nouvelle bdd
 $dsn = 'mysql:dbname=camagru;host=localhost;port=8080';
