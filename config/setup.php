@@ -1,3 +1,12 @@
+<!--
+@Author: Alain Demenet <ademenet>
+@Date:   Jan 01 1970
+@Email:  ademenet@student.42.fr
+@Project: Camagru
+@Last modified by:   ademenet
+@Last modified time: Sep 07 2016
+-->
+
 <?php
 
 // definit les variables et cree la nouvelle bdd
