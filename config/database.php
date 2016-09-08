@@ -10,5 +10,5 @@
 <?php
 
 $DB_DSN = 'mysql:dbname=camagru;host=localhost;port=8080';
-$DB_USR = 'root';
+$DB_USER = 'root';
 $DB_PASSWORD = 'root';
